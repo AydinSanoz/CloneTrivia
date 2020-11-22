@@ -1,0 +1,6 @@
+module Pods_clonetrivia {
+  umbrella header "Pods-clonetrivia-umbrella.h"
+
+  export *
+  module * { export * }
+}
