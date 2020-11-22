@@ -1,4 +1,4 @@
-export const initialState = {
-    questions: [],
-    score: 0
-}
+export const initialStates = {
+  questions: [],
+  score: 0,
+};

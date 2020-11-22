@@ -1,29 +1,28 @@
 import React from 'react';
-import {NavigationContainer} from '@react-navigation/native';
-import {createStackNavigator} from '@react-navigation/stack';
+import { NavigationContainer } from '@react-navigation/native';
+import { createStackNavigator } from '@react-navigation/stack';
+import { Intro } from './Pages/Intro';
+import { Questions } from './Pages/Questions';
 
-import {createStore} from 'redux';
-import {Provider} from 'react-redux';
-import {reducer} from './context/reducer';
-import {initialState} from './context/store';
 
-import {Intro, Questions, Finish} from './pages';
+import { Provider } from 'react-redux';
+import { createStore } from 'redux';
+import { initialStates } from './context/store';
+import { reducer } from './context/reducer';
 
 const Stack = createStackNavigator();
-const store = createStore(reducer, initialState);
+const store = createStore(reducer, initialStates);
 
-function Router() {
+const Router = () => {
   return (
-    <Provider store={store}>
+    <Provider store = {store}>
       <NavigationContainer>
-        <Stack.Navigator screenOptions={{headerShown: false}}>
-          <Stack.Screen name="Intro" component={Intro} />
-          <Stack.Screen name="Questions" component={Questions} />
-          <Stack.Screen name="Finish" component={Finish} />
+        <Stack.Navigator screenOptions={{ headerShown: false }}>
+          <Stack.Screen name = 'Intro' component = {Intro} />
+          <Stack.Screen name = 'Questions' component = {Questions} />
         </Stack.Navigator>
       </NavigationContainer>
     </Provider>
   );
-}
-
+};
 export default Router;

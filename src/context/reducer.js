@@ -1,15 +1,13 @@
-export function reducer(state, action) {
+export const reducer = (state, action) => {
   switch (action.type) {
-    case 'SET_QUESTIONS':
+    case 'setQuestions':
       state.questions = action.payload.questions;
-      return {...state};
-
-    case 'SET_SCORE':
-      const pointStatus = action.payload.isTrue;
-      state.score = pointStatus ? state.score + 1 : state.score - 1;
-      return {...state};
-
+      return { ...state };
+    case 'setScore':
+      const scoreStatus = action.payload.isTrue;
+      state.score = scoreStatus ? state.score + 1 : state.score - 1;
+      return { ...state };
     default:
       return state;
   }
-}
+};
