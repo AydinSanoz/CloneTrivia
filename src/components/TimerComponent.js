@@ -19,7 +19,7 @@ const TimerComponent = (props) => {
           {({remainingTime, animatedColor}) => (
             <Animated.Text
               style={{
-                // fontFamily: 'Pacifico-Regular',
+                fontFamily: 'Pacifico-Regular',
                 fontSize: 80,
                 color: animatedColor,
               }}>
