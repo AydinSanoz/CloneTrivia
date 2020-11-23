@@ -10,20 +10,17 @@ export const categoryModal = StyleSheet.create({
   container: {
     height: Dimensions.get('window').height * 0.8,
     paddingTop: 5,
-    backgroundColor: '#1976d2',
+    backgroundColor: '#19227c',
     borderTopLeftRadius: 10,
     borderTopRightRadius: 10,
   },
   categoryItemContainer: {
     padding: 10,
-    flexDirection: 'row',
-    alignItems: 'center'
   },
   categoryItemText: {
     fontSize: 20,
     fontWeight: 'bold',
     color: 'white',
-    marginLeft: 5
   },
 });
 
@@ -42,7 +39,7 @@ export const questionItem = StyleSheet.create({
   questionText: {
     color: 'white',
     fontSize: 30,
-    // fontFamily: 'Ubuntu-Regular',
+    fontFamily: 'Ubuntu-Regular',
   },
   buttonContainer: {
     flexDirection: 'row',
@@ -62,6 +59,6 @@ export const questionItem = StyleSheet.create({
   buttonText: {
     fontSize: 40,
     color: 'white',
-    fontFamily: 'Pacifico-Regular'
+    fontFamily: 'IndieFlower-Regular',
   },
 });

@@ -1,0 +1,50 @@
+{
+  "name": "react-countdown-circle-timer",
+  "version": "2.3.7",
+  "description": "Lightweight React countdown timer component with color and progress animation based on SVG",
+  "main": "./lib/index.js",
+  "scripts": {
+    "build": "webpack",
+    "dev:push": "yarn run build && yalc push",
+    "test": "jest",
+    "test-watch": "jest --watch",
+    "test-coverage": "jest --collectCoverage --coverageDirectory=\"coverage\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vydimitrov/react-countdown-circle-timer.git"
+  },
+  "keywords": [
+    "react",
+    "countdown",
+    "timer",
+    "circle",
+    "clock",
+    "SVG"
+  ],
+  "author": "Vasil Dimitrov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vydimitrov/react-countdown-circle-timer/issues"
+  },
+  "homepage": "https://github.com/vydimitrov/react-countdown-circle-timer/tree/master/packages/web#readme",
+  "peerDependencies": {
+    "prop-types": ">=15.7.0",
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "devDependencies": {
+    "@countdown-circle-timer/shared": "^2.3.6",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.0"
+  },
+  "dependencies": {
+    "use-elapsed-time": "^2.1.5"
+  },
+  "files": [
+    "lib",
+    "types"
+  ],
+  "types": "types/CountdownCircleTimer.d.ts",
+  "gitHead": "36ab5489528711d7c3f92ced95ee7b2a2394ad97"
+}

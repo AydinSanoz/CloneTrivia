@@ -1,44 +1,27 @@
 import Axios from 'axios';
-import React, {useState, useEffect} from 'react';
+import React from 'react';
 import {View, Text, TouchableOpacity, FlatList} from 'react-native';
 import Modal from 'react-native-modal';
-
 
 import {categoryModal} from './styles';
 
 const CategorySelectModal = (props) => {
-  const [categoryList, setCategoryList] = useState([]);
-
-  const fetchData = async () => {
-    const {
-      data: {trivia_categories},
-    } = await Axios.get('https://opentdb.com/api_category.php');
-    setCategoryList(trivia_categories);
-  };
-
-  useEffect(() => {
-    fetchData();
-  }, []);
-
-  const renderCategories = ({item}) => (
-    <TouchableOpacity
-      style={categoryModal.categoryItemContainer}
-      onPress={() => props.onCategorySelect(item)}>
-      
-      <Text style={categoryModal.categoryItemText}>📖  {item.name}</Text>
-    </TouchableOpacity>
-  );
-
   return (
     <Modal
-      isVisible={props.isVisible}
+      isVisible={props.visibility}
       style={categoryModal.modal}
       onBackdropPress={props.onClose}>
       <View style={categoryModal.container}>
         <FlatList
           keyExtractor={(_, i) => i.toString()}
           data={categoryList}
-          renderItem={renderCategories}
+          renderItem={({item, i}) => (
+            <TouchableOpacity
+              style={categoryModal.categoryItemContainer}
+              onPress={() => props.onCategorySelect(item)}>
+              <Text style={categoryModal.categoryItemText}>{item.name}</Text>
+            </TouchableOpacity>
+          )}
         />
         <Text></Text>
       </View>
