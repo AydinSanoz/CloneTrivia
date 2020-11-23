@@ -35,6 +35,7 @@ const Intro = (props) => {
         } = response;
 
         dispatch({type: 'SET_QUESTIONS', payload: {questions}});
+        console.log("🚀 ~ file: Intro.js ~ line 38 ~ startGame ~ questions", questions)
       });
 
     setModalFlag(false);
