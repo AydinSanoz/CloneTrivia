@@ -6,7 +6,7 @@ import {CountdownCircleTimer} from 'react-native-countdown-circle-timer';
 const TimerComponent = (props) => {
   return (
     <Modal backdropOpacity={0.2} isVisible={props.visibility}>
-      <View style={{backgroundColor: '#3949ab', alignItems: 'center', padding: 20, borderRadius: 10}}>
+      <View style={{backgroundColor: '#', alignItems: 'center', padding: 20, borderRadius: 10}}>
         <CountdownCircleTimer
           isPlaying={props.counterFlag}
           duration={5}
@@ -19,7 +19,7 @@ const TimerComponent = (props) => {
           {({remainingTime, animatedColor}) => (
             <Animated.Text
               style={{
-                fontFamily: 'Pacifico-Regular',
+                // fontFamily: 'Pacifico-Regular',
                 fontSize: 80,
                 color: animatedColor,
               }}>

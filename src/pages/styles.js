@@ -35,6 +35,6 @@ export const finishPage = StyleSheet.create({
     color: 'white',
     fontSize: 100,
     textAlign: 'center',
-    fontFamily: 'IndieFlower-Regular'
+    // fontFamily: 'IndieFlower-Regular'
   }
 });

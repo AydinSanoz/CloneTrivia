@@ -1,4 +1,4 @@
-#Mon Nov 23 11:21:18 TRT 2020
+#Mon Nov 23 13:28:10 TRT 2020
 base.0=/Users/catalina/Desktop/repositories/CloneTrivia/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

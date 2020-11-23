@@ -27,7 +27,7 @@ export const categoryModal = StyleSheet.create({
 export const questionItem = StyleSheet.create({
   container: {
     width: Dimensions.get('window').width,
-    backgroundColor: '#3949ab',
+    backgroundColor: '#9c786c',
   },
   questionContainer: {
     borderWidth: 3,
@@ -39,7 +39,7 @@ export const questionItem = StyleSheet.create({
   questionText: {
     color: 'white',
     fontSize: 30,
-    fontFamily: 'Ubuntu-Regular',
+    // fontFamily: 'Ubuntu-Regular',
   },
   buttonContainer: {
     flexDirection: 'row',
@@ -59,6 +59,6 @@ export const questionItem = StyleSheet.create({
   buttonText: {
     fontSize: 40,
     color: 'white',
-    fontFamily: 'IndieFlower-Regular',
+    // fontFamily: 'IndieFlower-Regular',
   },
 });

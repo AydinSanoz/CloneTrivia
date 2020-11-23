@@ -35,7 +35,7 @@ const Intro = (props) => {
         } = response;
 
         dispatch({type: 'SET_QUESTIONS', payload: {questions}});
-        console.log("🚀 ~ file: Intro.js ~ line 38 ~ startGame ~ questions", questions)
+        
       });
 
     setModalFlag(false);
@@ -48,7 +48,7 @@ const Intro = (props) => {
       <View style={{flex: 1}}>
        
         <View style={introPage.container}>
-          <Text style={introPage.bannerText}>Tırı Vırı!</Text>
+          <Text style={introPage.bannerText}>Try..!</Text>
         </View>
 
         <View style={introPage.container}>

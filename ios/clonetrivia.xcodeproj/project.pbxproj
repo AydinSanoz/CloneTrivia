@@ -8,18 +8,43 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* clonetriviaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* clonetriviaTests.m */; };
+		01760965A2424239BD3B53AB /* Ubuntu-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EF95F77C8CF74548AB95A414 /* Ubuntu-Bold.ttf */; };
 		12C07141DD64FE9873237473 /* libPods-clonetrivia-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D3C0D5E21B86DEDF1BF350E3 /* libPods-clonetrivia-tvOS.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		152B19C0FD4D4100B2CA74A0 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8BED5C966F4747A7A9CA25BA /* EvilIcons.ttf */; };
+		1B6CC3D5E7164A13B9D2090A /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 560F6EA055D3489E9E037A5F /* Feather.ttf */; };
+		2224B25A50AD43B6BF920CB5 /* Ubuntu-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F877303124EE4DFCA3C756FF /* Ubuntu-BoldItalic.ttf */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* clonetriviaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* clonetriviaTests.m */; };
+		36433B39C68C4AAC99585666 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A58F30CEEEB54438B31B6627 /* Entypo.ttf */; };
 		364B6AEAE89423840A3D1F29 /* libPods-clonetrivia.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 267E8C22B505A797A42A2D5A /* libPods-clonetrivia.a */; };
+		40AEFD4170144519B5D02D22 /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B8D3C7E31F4847F995A4C784 /* SimpleLineIcons.ttf */; };
+		4D857DBBDCD84BA48D27DBD5 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 096A6F317A644BE79D681A35 /* MaterialIcons.ttf */; };
 		5D28EA8C583AB88D49A9F844 /* libPods-clonetrivia-clonetriviaTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 589BC08BC3292267D8331BF4 /* libPods-clonetrivia-clonetriviaTests.a */; };
+		5D5EF135F7394B6CB9674DF2 /* Ubuntu-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FCC226F0F887493FAC3831A2 /* Ubuntu-Italic.ttf */; };
+		62455533E7CC49B29A679263 /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E1C78ED0E5704C4090A2DFEA /* FontAwesome5_Brands.ttf */; };
+		6610D3904FAB49C3A2D65354 /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 29257893D98D4CB7B7650D16 /* FontAwesome5_Solid.ttf */; };
+		6BB29338F3BB4AF19A14D62E /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7092EFA0090A4431B99C68D0 /* AntDesign.ttf */; };
+		6F1896B8008348FEB73A1F3B /* Ubuntu-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D5932B2E2F14421FA9D72538 /* Ubuntu-Medium.ttf */; };
+		7515E59FD3834A758D40E73B /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 31342E8EEFAF4238826D127C /* Octicons.ttf */; };
 		7CEFB7E3C55F8CC8FEA7923B /* libPods-clonetrivia-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AA87A6719145214670A8C7B3 /* libPods-clonetrivia-tvOSTests.a */; };
+		7F8B659D4B854536B2429E4B /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 19E0FA722C4347D3AF22822C /* FontAwesome5_Regular.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		840E6C9656304A2EB290F9DC /* IndieFlower-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 237904FA73BD46428C3B4501 /* IndieFlower-Regular.ttf */; };
+		9D82370EBA7B4E458DE1CC8C /* Ubuntu-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EB22B9C888814E498E720129 /* Ubuntu-LightItalic.ttf */; };
+		ADD02911DE67411FB9AF623D /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 32F3B0DD4F46430C862E528D /* MaterialCommunityIcons.ttf */; };
+		AFE44B4FA49842339D36BB40 /* Ubuntu-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F63B436AAE344DE89C508809 /* Ubuntu-Light.ttf */; };
+		BC53EC1E9B9147F5B33BC535 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 848C6BD55D364DB98B2F590B /* Zocial.ttf */; };
+		BD52BEF64F674FC3B76C2CC5 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9B30649ADC77419BB2170E5E /* Ionicons.ttf */; };
+		D9842831B86C40E0AB4F894F /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 02A485FBBDAE44ED90EDC34F /* Fontisto.ttf */; };
+		DC5EE5FABB0E45158A737F6B /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4E54A3453B9D4BBB812C7DEE /* FontAwesome.ttf */; };
+		E31796009315437F94A5C041 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EF8E838A1EF3415F86FC2383 /* Foundation.ttf */; };
+		E9EAAC0D0C014C82A1FB5DA8 /* Ubuntu-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 982E1D1624DA4736A5FDC6BF /* Ubuntu-Regular.ttf */; };
+		F7C728AAAB6C46368CE0055B /* Ubuntu-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7BB6350262D3476898E66112 /* Ubuntu-MediumItalic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,29 +69,63 @@
 		00E356EE1AD99517003FC87E /* clonetriviaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = clonetriviaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* clonetriviaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = clonetriviaTests.m; sourceTree = "<group>"; };
+		02A485FBBDAE44ED90EDC34F /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
+		096A6F317A644BE79D681A35 /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* clonetrivia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = clonetrivia.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = clonetrivia/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = clonetrivia/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = clonetrivia/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = clonetrivia/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = clonetrivia/main.m; sourceTree = "<group>"; };
+		19E0FA722C4347D3AF22822C /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
+		237904FA73BD46428C3B4501 /* IndieFlower-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "IndieFlower-Regular.ttf"; path = "../src/assets/fonts/IndieFlower-Regular.ttf"; sourceTree = "<group>"; };
 		267E8C22B505A797A42A2D5A /* libPods-clonetrivia.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-clonetrivia.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		29257893D98D4CB7B7650D16 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* clonetrivia-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "clonetrivia-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* clonetrivia-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "clonetrivia-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F9FBA55EA0DDF2CBC8D75F7 /* Pods-clonetrivia-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-clonetrivia-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-clonetrivia-tvOSTests/Pods-clonetrivia-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		31342E8EEFAF4238826D127C /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
+		32F3B0DD4F46430C862E528D /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
 		3E7807A716121FE993C8CAF9 /* Pods-clonetrivia.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-clonetrivia.debug.xcconfig"; path = "Target Support Files/Pods-clonetrivia/Pods-clonetrivia.debug.xcconfig"; sourceTree = "<group>"; };
 		4B69A3FACE88D3A6EAABBC8D /* Pods-clonetrivia-clonetriviaTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-clonetrivia-clonetriviaTests.debug.xcconfig"; path = "Target Support Files/Pods-clonetrivia-clonetriviaTests/Pods-clonetrivia-clonetriviaTests.debug.xcconfig"; sourceTree = "<group>"; };
+		4E54A3453B9D4BBB812C7DEE /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
 		50AABCA5B94FDB17F3531260 /* Pods-clonetrivia-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-clonetrivia-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-clonetrivia-tvOS/Pods-clonetrivia-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		560F6EA055D3489E9E037A5F /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
 		589BC08BC3292267D8331BF4 /* libPods-clonetrivia-clonetriviaTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-clonetrivia-clonetriviaTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7092EFA0090A4431B99C68D0 /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
+		7BB6350262D3476898E66112 /* Ubuntu-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-MediumItalic.ttf"; path = "../src/assets/fonts/Ubuntu-MediumItalic.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = clonetrivia/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		848C6BD55D364DB98B2F590B /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
+		8BED5C966F4747A7A9CA25BA /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
 		982D794BFF793DC6EB5CFB35 /* Pods-clonetrivia-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-clonetrivia-tvOS.release.xcconfig"; path = "Target Support Files/Pods-clonetrivia-tvOS/Pods-clonetrivia-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		982E1D1624DA4736A5FDC6BF /* Ubuntu-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Regular.ttf"; path = "../src/assets/fonts/Ubuntu-Regular.ttf"; sourceTree = "<group>"; };
+		9B30649ADC77419BB2170E5E /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
 		A4BC84DC09053B09F6F1F72E /* Pods-clonetrivia.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-clonetrivia.release.xcconfig"; path = "Target Support Files/Pods-clonetrivia/Pods-clonetrivia.release.xcconfig"; sourceTree = "<group>"; };
+		A58F30CEEEB54438B31B6627 /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
 		AA87A6719145214670A8C7B3 /* libPods-clonetrivia-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-clonetrivia-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AD092208256BC7F100030D00 /* Ubuntu-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Ubuntu-Bold.ttf"; path = "../src/assets/fonts/Ubuntu-Bold.ttf"; sourceTree = "<group>"; };
+		AD092209256BC7F200030D00 /* Ubuntu-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Ubuntu-Regular.ttf"; path = "../src/assets/fonts/Ubuntu-Regular.ttf"; sourceTree = "<group>"; };
+		AD09220A256BC7F200030D00 /* Ubuntu-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Ubuntu-BoldItalic.ttf"; path = "../src/assets/fonts/Ubuntu-BoldItalic.ttf"; sourceTree = "<group>"; };
+		AD09220B256BC7F300030D00 /* Ubuntu-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Ubuntu-Light.ttf"; path = "../src/assets/fonts/Ubuntu-Light.ttf"; sourceTree = "<group>"; };
+		AD09220C256BC7F300030D00 /* Ubuntu-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Ubuntu-Medium.ttf"; path = "../src/assets/fonts/Ubuntu-Medium.ttf"; sourceTree = "<group>"; };
+		AD09220D256BC7F300030D00 /* Ubuntu-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Ubuntu-MediumItalic.ttf"; path = "../src/assets/fonts/Ubuntu-MediumItalic.ttf"; sourceTree = "<group>"; };
+		AD09220E256BC7F300030D00 /* Ubuntu-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Ubuntu-Italic.ttf"; path = "../src/assets/fonts/Ubuntu-Italic.ttf"; sourceTree = "<group>"; };
+		AD09220F256BC7F300030D00 /* IndieFlower-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "IndieFlower-Regular.ttf"; path = "../src/assets/fonts/IndieFlower-Regular.ttf"; sourceTree = "<group>"; };
+		AD092210256BC7F300030D00 /* Ubuntu-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Ubuntu-LightItalic.ttf"; path = "../src/assets/fonts/Ubuntu-LightItalic.ttf"; sourceTree = "<group>"; };
+		B8D3C7E31F4847F995A4C784 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
 		C767FA0AF92D2921173E244C /* Pods-clonetrivia-clonetriviaTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-clonetrivia-clonetriviaTests.release.xcconfig"; path = "Target Support Files/Pods-clonetrivia-clonetriviaTests/Pods-clonetrivia-clonetriviaTests.release.xcconfig"; sourceTree = "<group>"; };
 		D3C0D5E21B86DEDF1BF350E3 /* libPods-clonetrivia-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-clonetrivia-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D5932B2E2F14421FA9D72538 /* Ubuntu-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Medium.ttf"; path = "../src/assets/fonts/Ubuntu-Medium.ttf"; sourceTree = "<group>"; };
+		E1C78ED0E5704C4090A2DFEA /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
+		EB22B9C888814E498E720129 /* Ubuntu-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-LightItalic.ttf"; path = "../src/assets/fonts/Ubuntu-LightItalic.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		EF373C5BE399E7596EA8DA80 /* Pods-clonetrivia-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-clonetrivia-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-clonetrivia-tvOSTests/Pods-clonetrivia-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		EF8E838A1EF3415F86FC2383 /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
+		EF95F77C8CF74548AB95A414 /* Ubuntu-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Bold.ttf"; path = "../src/assets/fonts/Ubuntu-Bold.ttf"; sourceTree = "<group>"; };
+		F63B436AAE344DE89C508809 /* Ubuntu-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Light.ttf"; path = "../src/assets/fonts/Ubuntu-Light.ttf"; sourceTree = "<group>"; };
+		F877303124EE4DFCA3C756FF /* Ubuntu-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-BoldItalic.ttf"; path = "../src/assets/fonts/Ubuntu-BoldItalic.ttf"; sourceTree = "<group>"; };
+		FCC226F0F887493FAC3831A2 /* Ubuntu-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Ubuntu-Italic.ttf"; path = "../src/assets/fonts/Ubuntu-Italic.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +195,38 @@
 			name = clonetrivia;
 			sourceTree = "<group>";
 		};
+		14B33FC4779740A0B92EB26C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				237904FA73BD46428C3B4501 /* IndieFlower-Regular.ttf */,
+				EF95F77C8CF74548AB95A414 /* Ubuntu-Bold.ttf */,
+				F877303124EE4DFCA3C756FF /* Ubuntu-BoldItalic.ttf */,
+				FCC226F0F887493FAC3831A2 /* Ubuntu-Italic.ttf */,
+				F63B436AAE344DE89C508809 /* Ubuntu-Light.ttf */,
+				EB22B9C888814E498E720129 /* Ubuntu-LightItalic.ttf */,
+				D5932B2E2F14421FA9D72538 /* Ubuntu-Medium.ttf */,
+				7BB6350262D3476898E66112 /* Ubuntu-MediumItalic.ttf */,
+				982E1D1624DA4736A5FDC6BF /* Ubuntu-Regular.ttf */,
+				7092EFA0090A4431B99C68D0 /* AntDesign.ttf */,
+				A58F30CEEEB54438B31B6627 /* Entypo.ttf */,
+				8BED5C966F4747A7A9CA25BA /* EvilIcons.ttf */,
+				560F6EA055D3489E9E037A5F /* Feather.ttf */,
+				4E54A3453B9D4BBB812C7DEE /* FontAwesome.ttf */,
+				E1C78ED0E5704C4090A2DFEA /* FontAwesome5_Brands.ttf */,
+				19E0FA722C4347D3AF22822C /* FontAwesome5_Regular.ttf */,
+				29257893D98D4CB7B7650D16 /* FontAwesome5_Solid.ttf */,
+				02A485FBBDAE44ED90EDC34F /* Fontisto.ttf */,
+				EF8E838A1EF3415F86FC2383 /* Foundation.ttf */,
+				9B30649ADC77419BB2170E5E /* Ionicons.ttf */,
+				32F3B0DD4F46430C862E528D /* MaterialCommunityIcons.ttf */,
+				096A6F317A644BE79D681A35 /* MaterialIcons.ttf */,
+				31342E8EEFAF4238826D127C /* Octicons.ttf */,
+				B8D3C7E31F4847F995A4C784 /* SimpleLineIcons.ttf */,
+				848C6BD55D364DB98B2F590B /* Zocial.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -159,12 +250,22 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				AD09220F256BC7F300030D00 /* IndieFlower-Regular.ttf */,
+				AD092208256BC7F100030D00 /* Ubuntu-Bold.ttf */,
+				AD09220A256BC7F200030D00 /* Ubuntu-BoldItalic.ttf */,
+				AD09220E256BC7F300030D00 /* Ubuntu-Italic.ttf */,
+				AD09220B256BC7F300030D00 /* Ubuntu-Light.ttf */,
+				AD092210256BC7F300030D00 /* Ubuntu-LightItalic.ttf */,
+				AD09220C256BC7F300030D00 /* Ubuntu-Medium.ttf */,
+				AD09220D256BC7F300030D00 /* Ubuntu-MediumItalic.ttf */,
+				AD092209256BC7F200030D00 /* Ubuntu-Regular.ttf */,
 				13B07FAE1A68108700A75B9A /* clonetrivia */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* clonetriviaTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				A87DBD98169CAD86406EC8D8 /* Pods */,
+				14B33FC4779740A0B92EB26C /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -194,7 +295,6 @@
 				EF373C5BE399E7596EA8DA80 /* Pods-clonetrivia-tvOSTests.debug.xcconfig */,
 				2F9FBA55EA0DDF2CBC8D75F7 /* Pods-clonetrivia-tvOSTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -340,8 +440,33 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				01760965A2424239BD3B53AB /* Ubuntu-Bold.ttf in Resources */,
+				E9EAAC0D0C014C82A1FB5DA8 /* Ubuntu-Regular.ttf in Resources */,
+				2224B25A50AD43B6BF920CB5 /* Ubuntu-BoldItalic.ttf in Resources */,
+				AFE44B4FA49842339D36BB40 /* Ubuntu-Light.ttf in Resources */,
+				6F1896B8008348FEB73A1F3B /* Ubuntu-Medium.ttf in Resources */,
+				F7C728AAAB6C46368CE0055B /* Ubuntu-MediumItalic.ttf in Resources */,
+				5D5EF135F7394B6CB9674DF2 /* Ubuntu-Italic.ttf in Resources */,
+				840E6C9656304A2EB290F9DC /* IndieFlower-Regular.ttf in Resources */,
+				9D82370EBA7B4E458DE1CC8C /* Ubuntu-LightItalic.ttf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				6BB29338F3BB4AF19A14D62E /* AntDesign.ttf in Resources */,
+				36433B39C68C4AAC99585666 /* Entypo.ttf in Resources */,
+				152B19C0FD4D4100B2CA74A0 /* EvilIcons.ttf in Resources */,
+				1B6CC3D5E7164A13B9D2090A /* Feather.ttf in Resources */,
+				DC5EE5FABB0E45158A737F6B /* FontAwesome.ttf in Resources */,
+				62455533E7CC49B29A679263 /* FontAwesome5_Brands.ttf in Resources */,
+				7F8B659D4B854536B2429E4B /* FontAwesome5_Regular.ttf in Resources */,
+				6610D3904FAB49C3A2D65354 /* FontAwesome5_Solid.ttf in Resources */,
+				D9842831B86C40E0AB4F894F /* Fontisto.ttf in Resources */,
+				E31796009315437F94A5C041 /* Foundation.ttf in Resources */,
+				BD52BEF64F674FC3B76C2CC5 /* Ionicons.ttf in Resources */,
+				ADD02911DE67411FB9AF623D /* MaterialCommunityIcons.ttf in Resources */,
+				4D857DBBDCD84BA48D27DBD5 /* MaterialIcons.ttf in Resources */,
+				7515E59FD3834A758D40E73B /* Octicons.ttf in Resources */,
+				40AEFD4170144519B5D02D22 /* SimpleLineIcons.ttf in Resources */,
+				BC53EC1E9B9147F5B33BC535 /* Zocial.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

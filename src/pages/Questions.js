@@ -35,10 +35,10 @@ const Questions = (props) => {
     <SafeAreaView style={{flex: 1}}>
       <View style={{flex: 1}}>
         
-        <View style={{backgroundColor: '#3949ab', alignItems: 'center', padding: 20}}>
+        <View style={{backgroundColor: '#9c786c', alignItems: 'center', padding: 20}}>
           <CountdownCircleTimer
             isPlaying
-            duration={5}
+            duration={20}
             onComplete={() => props.navigation.navigate('Finish')}
             colors={[
               ['#fff176', 0.4],
